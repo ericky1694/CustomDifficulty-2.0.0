@@ -1,0 +1,9 @@
+{
+  "name": "CustomDifficulty",
+  "version_number": "2.0.0",
+  "website_url": "",
+  "description": "Customize player health, damage, enemies, bosses, drops, economy, movement, and presets through an in-game menu.",
+  "dependencies": [
+    "silksong_modding-BepInExPack_Silksong-1.0.3"
+  ]
+}
