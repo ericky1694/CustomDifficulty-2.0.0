@@ -61,7 +61,7 @@ This mod patches gameplay methods with Harmony. Mods that change the same health
 
 ## Author
 
-Created by Erick.
+Created by Ericky.
 
 ## Version
 
