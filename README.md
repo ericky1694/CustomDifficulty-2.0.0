@@ -91,7 +91,7 @@ Back up save files before combining major gameplay mods.
 
 ## Author
 
-Created by Erick.
+Created by Ericky.
 
 ## Version
 
