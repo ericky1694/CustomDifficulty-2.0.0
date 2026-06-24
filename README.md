@@ -17,6 +17,12 @@ Custom Difficulty is a BepInEx 5 mod for Hollow Knight: Silksong that adds an in
 
 Some settings are marked **Experimental** or **Reserved**. Experimental settings use safe hooks or heuristics and may vary by enemy, boss, shop, or scene. Reserved settings are saved in config and presets, but do not use active gameplay hooks yet.
 
+## Version 2.1.1
+
+- Fixed invincibility-time scaling so the mod no longer overwrites the active `invulnerableDuration` runtime counter.
+- The invincibility option now scales the base `INVUL_TIME` values used when the game starts a damage invulnerability window.
+- This prevents repeated contact damage from enemies immediately hitting Hornet again while they remain touching her.
+
 ## Requirements
 
 - Hollow Knight: Silksong
@@ -91,8 +97,8 @@ Back up save files before combining major gameplay mods.
 
 ## Author
 
-Created by Ericky.
+Created by Erick.
 
 ## Version
 
-`2.1.0`
+`2.1.1`
