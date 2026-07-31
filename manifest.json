@@ -1,8 +1,8 @@
 {
   "name": "CustomDifficulty",
-  "version_number": "2.1.1",
+  "version_number": "3.0.0",
   "website_url": "",
-  "description": "Customize Silksong difficulty with an in-game menu for health, damage, bosses, drops, economy, movement, mutators, boss profiles, presets, favorites, search, a live difficulty summary, and fixed invincibility-time scaling.",
+  "description": "Custom Difficulty 3.0.0 with per-option enable switches, needle upgrade scaling, health, damage, rewards, and prices.",
   "dependencies": [
     "silksong_modding-BepInExPack_Silksong-1.0.3"
   ]
