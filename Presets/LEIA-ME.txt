@@ -1,0 +1,6 @@
+PASTA DE PRESETS DO CUSTOM DIFFICULTY
+
+Coloque nesta pasta os arquivos de preset no formato JSON.
+Depois abra a aba Presets do mod, escolha o arquivo em CARREGAR ARQUIVO e pressione CARREGAR.
+
+Excluir um preset da aba não apaga o arquivo desta pasta.
